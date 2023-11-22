@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Teja Bolloju</h1>
 <h3 align="center">Data Science Explorer: Unveiling Insights Through Analytics</h3>
-<img align="center" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/4be1a79a-d021-4770-83d3-0fa8f2869624)](https://giphy.com/gifs/DataCamp-data-science-datacamp-7c8QeB0VMddFOuu4iR">
+
+<img align="right" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
 
 - 🔭 I’m currently working on **Loan Performance Prediction**
 
