@@ -3,7 +3,9 @@
 
 <img align="right" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
 
-- 🔭 I’m currently working on **Bidirectional Encoder Representations from Transformers**
+- 🔭 I’m currently working on **Bidirectional Encoder Representations from Transformers(
+What is the BERT language model? | Definition from TechTarget.com
+BERT)**
 
 - 🌱 I’m currently learning **Optimization algorithms for data science applications**
 
