@@ -3,7 +3,7 @@
 
 <img align="right" width="300" src="https://github.com/rahulteja1/rahulteja1/assets/98079530/1317ae78-d335-48ec-b49e-d0dc9e1b2de1">
 
-- 🔭 I’m currently working on **Bidirectional Encoder Representations from Transformers(BERT model)**
+- 🔭 I’m currently working on **Statistical Analysis on Gas Station Innovation**
 
 - 🌱 I’m currently learning **Optimization algorithms for data science applications**
 
