@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="pic/RT_photo.gif" style="max-width: 100px; height: auto;" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
+  <img src="pic/RT_photo.gif" style="width: 100px; height: auto; display: block;" />
 </div>
+
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
