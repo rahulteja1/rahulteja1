@@ -16,12 +16,16 @@
 ---
 
 ## 💼 Work Experience  
-🔹 **Data Analyst | [Company Name]** (2023 - Present)  
-   - Developed automated dashboards that reduced reporting time by 40%  
-   - Implemented machine learning models for sales forecasting with 85% accuracy  
+🔹 **Data Analyst | CodersData** (06/2024 - Present)  
 
-🔹 **Data Science Intern | [Company Name]** (2022)  
-   - Built NLP-based sentiment analysis models for customer reviews  
+🔹 **Data Scientist | Pitney Bowes** (06/2023 - 04/2024)  
+
+🔹 **Data Analyst | FonkR Solutions** (06/2020 - 07/2022)  
+
+🔹 **Data Analyst | Vinx Innovation Tech Solutions** (04/2020 - 05/2020)  
+
+🔹 **Data Science Intern | The Smart Bridge** (04/2019 - 05/2019)  
+
 
 [🔗 View My Resume](https://rahulteja1.github.io/)  
 
