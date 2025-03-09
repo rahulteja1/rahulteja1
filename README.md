@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rahul Teja Bolloju
+<h1 align="center">Hi there! 👋 I'm Rahul Teja Bolloju</h1>
 
 🚀 **Data Scientist | Data Analyst | Machine Learning Enthusiast**  
 📍 Based in Chicago, IL | 💻 3+ years of experience  
@@ -60,8 +60,10 @@
 ---
 
 ### **📈 GitHub Stats**
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhulteja1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhulteja1&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhulteja1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhulteja1&layout=compact&theme=radical" />
+</p>
 
 ---
 
