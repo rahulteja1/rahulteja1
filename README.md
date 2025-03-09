@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://visitcount.itsvg.in/api?id=Rahul_Teja&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="" />
 </div>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Data%20Scientist%3BData%20Analyst%3BMachine%20Learning%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Rahul Teja Bolloju</h1>
+
 
 🚀 **Data Scientist | Data Analyst | Machine Learning Enthusiast**  
 📍 Based in Chicago, IL | 💻 3+ years of experience  
