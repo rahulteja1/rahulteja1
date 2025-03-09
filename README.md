@@ -7,40 +7,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Data%20Scientist%3BData%20Analyst%3BMachine%20Learning%20Enthusiast" style="margin-left: 10px;" />
 </div>
 
-# 👨‍�� About Me
+<h1 align="center">Hi there! 👋 I'm Rahul Teja Bolloju</h1>
 
-Entrepreneurial driven, focused on leveraging data science and analytics to drive growth and innovation. Passionate about developing strategies that enhance bus
+🚀 **Data Scientist | Data Analyst | Machine Learning Enthusiast**  
+📍 Based in Chicago, IL | 💻 3+ years of experience  
+📊 Passionate about data-driven decision-making, predictive analytics, and visualization  
 
-# 📊 GitHub Statistics
+---
 
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rahulteja1&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=rahulteja1&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rahulteja1&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulteja1&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
-</p>
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulteja1&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+## 🔍 About Me  
+- 🎓 **Master’s in Data Science**  
+- 💡 Specializing in **Machine Learning, Deep Learning, and Predictive Analytics**  
+- 📈 Experienced in **SQL, Python, Power BI, Tableau, and Cloud Technologies**  
+- 🎯 Passionate about **solving complex problems using data**  
+- 🌱 Currently learning **LlamaIndex & Generative AI for Business Applications**  
 
-# 🤝 Connect With Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahultejabolloju) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahultejabolloju@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rahulteja1.github.io/)
+## 💼 Work Experience  
+🔹 **Data Analyst | CodersData** (06/2024 - Present)  
 
-<p>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+🔹 **Data Scientist | Pitney Bowes** (06/2023 - 04/2024)  
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+🔹 **Data Analyst | FonkR Solutions** (06/2020 - 07/2022)  
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rahulteja1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+🔹 **Data Analyst | Vinx Innovation Tech Solutions** (04/2020 - 05/2020)  
+
+🔹 **Data Science Intern | The Smart Bridge** (04/2019 - 05/2019)  
+
+
+[🔗 View My Resume](https://rahulteja1.github.io/)  
+
+---
+
+## 🛠️ Tech Stack  
+- **Programming:** Python, SQL, R  
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch  
+- **Cloud & Databases:** AWS, Azure, PostgreSQL, MongoDB  
+- **Development Tools:** Git, Docker, Jupyter, VS Code  
+
+---
+
+## 📬 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/rahultejabolloju)  
+📂 [Portfolio](https://rahulteja1.github.io/)  
+📧 [Email](mailto:rahultejabolloju@gmail.com)  
+🚀 Let's collaborate on exciting data projects!  
+
+---
+
+## ⚡ Fun Fact  
+💡 I used to run a café in my hometown, where I analyzed customer behavior to optimize sales!  
