@@ -40,21 +40,6 @@
 
 ---
 
-## 📌 Featured Projects  
-📊 **Customer Segmentation using Clustering**  
-   - Used K-Means and DBSCAN to segment customers for targeted marketing  
-   - [🔗 View Project](https://github.com/rhulteja1/customer-segmentation)  
-
-📈 **Stock Price Prediction using LSTMs**  
-   - Developed a deep learning model to predict stock trends  
-   - [🔗 View Project](https://github.com/rhulteja1/stock-price-prediction)  
-
-🌎 **Real-Time Twitter Sentiment Analysis**  
-   - Analyzed public sentiment towards trending topics using NLP  
-   - [🔗 View Project](https://github.com/rhulteja1/twitter-sentiment)  
-
----
-
 ## 📬 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/rahultejabolloju)  
 📂 [Portfolio](https://rahulteja1.github.io/)  
@@ -63,17 +48,6 @@
 
 ---
 
-### **📈 GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhulteja1&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhulteja1&layout=compact&theme=radical" />
-</p>
-
----
-
 ## ⚡ Fun Fact  
 💡 I used to run a café in my hometown, where I analyzed customer behavior to optimize sales!  
 
----
-
-## 🎯 Let’s Build Something Amazing Together! 🚀  
