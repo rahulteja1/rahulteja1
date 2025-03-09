@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; height: 100vh; width: 100%;">
   <img src="pic/RT_photo.gif" style="width: 100px; height: auto; display: block;" />
 </div>
 
