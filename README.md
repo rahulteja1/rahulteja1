@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start;">
-  <img src="" />
+  <img src="pic/RT_photo.gif" />
 </div>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
