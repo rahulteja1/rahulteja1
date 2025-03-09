@@ -1,6 +1,7 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="pic/RT_photo.gif" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="pic/RT_photo.gif" style="max-width: 100px; height: auto;" />
 </div>
+
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Rahul Teja</h1>
