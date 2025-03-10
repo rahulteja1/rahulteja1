@@ -4,7 +4,7 @@
 
 
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 200px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Rahul Teja</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Data%20Scientist%3BData%20Analyst%3BMachine%20Learning%20Enthusiast" style="margin-left: 10px;" />
 </div>
